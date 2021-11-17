@@ -1,0 +1,2 @@
+Hello World this is a java program.
+This	 java program is for writer class demo.
